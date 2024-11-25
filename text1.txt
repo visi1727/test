@@ -1,0 +1,2 @@
+i have created the new file text1.txt
+in the git bash
